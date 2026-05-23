@@ -1,28 +1,16 @@
 # 👋 Youssef Souissi
 
-**Ingénieur IA/ML & Full-Stack | LLM & Systèmes d'IA**
+Ingénieur IA/ML & Full-Stack | LLM & Systèmes d’IA
 
-Passionate about building intelligent systems at scale. Specializing in Large Language Models, 
-Retrieval-Augmented Generation, and distributed Big Data pipelines. Currently pursuing Master's 
-in Big Data & AI Engineering.
+Passionné par la conception de systèmes intelligents à grande échelle. 
+Spécialisé dans les grands modèles de langage (LLM), la génération augmentée par récupération (RAG) et les pipelines distribués de Big Data. 
 
-🔗 **Quick Links:**
-- 🧠 AI/ML Focus: LLM, RAG, Computer Vision, Fine-tuning
-- 📧 Email: souissiyoussef9@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/souissi-youssef](https://linkedin.com/in/souissi-youssef)
+🔗 Liens rapides :
 
+🧠 Axes IA/ML : LLM, RAG, vision par ordinateur, fine-tuning
+📧 Email : souissiyoussef9@gmail.com
+💼 LinkedIn : linkedin.com/in/souissi-youssef
 
----
-
-## 🚀 Current Focus
-
-I'm working on intelligent AI systems that solve real-world problems:
-
-**Featured Projects:**
-- 🤖 **[Cortexa](https://github.com/YoussefSouissi/cortexa)** — Agentic RAG system for secure document Q&A with LangGraph
-- 🎨 **[Portrait Studio](https://github.com/YoussefSouissi/Portrait-Studio)** — Fine-tuning Stable Diffusion XL with LoRA for photorealistic generation
-- 📊 **[E-Commerce Delivery Intelligence](https://github.com/YoussefSouissi/Surveillance-Proactive-des-Livraisons)** — Real-time delivery risk prediction (87% AUC) with distributed Big Data architecture
-- 👁️ **[Event Decoration Style Recognition](link)** — Computer Vision system classifying 7 decoration styles (CNN + Transfer Learning)
 
 ---
 
@@ -60,42 +48,6 @@ I'm working on intelligent AI systems that solve real-world problems:
 
 ---
 
-## 📊 GitHub Analytics
 
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefSouissi&theme=tokyonight&hide_border=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSouissi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefSouissi&theme=tokyonight&hide_border=true)](https://github.com/YoussefSouissi)
-
----
-
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YoussefSouissi&theme=cobalt&no-frame=false&no-bg=false&margin-w=4&row=1&column=6)
-
----
-
-## 💡 Areas of Expertise
-
-| Domain | Skills |
-|--------|--------|
-| **Large Language Models** | Prompt Engineering, Fine-tuning, RAG, LangGraph, DeepSeek |
-| **Machine Learning** | Transfer Learning, CNN, XGBoost, Scikit-learn, MLflow |
-| **Big Data** | Apache Spark, Kafka, Hadoop, Distributed Systems, Data Pipelines |
-| **Computer Vision** | Image Classification, Transfer Learning, MobileNetV2, KMeans |
-| **Backend** | FastAPI, Node.js, Spring Boot, REST APIs, WebSocket |
-| **Full-Stack** | React, TypeScript, Angular, Flutter, databases |
-
----
-
-## 📚 Currently Learning
-
-- Advanced Agent Architectures (Multi-agent systems)
-- Fine-tuning large models at scale
-- Production ML systems & MLOps
-- Vector databases & semantic search optimization
-
----
 
 
