@@ -1,15 +1,101 @@
-🔭 I’m currently working on FoodPlz<br>📫 How to reach me souissiyoussef9@gmail.com
+# 👋 Youssef Souissi
+
+**Ingénieur IA/ML & Full-Stack | LLM & Systèmes d'IA**
+
+Passionate about building intelligent systems at scale. Specializing in Large Language Models, 
+Retrieval-Augmented Generation, and distributed Big Data pipelines. Currently pursuing Master's 
+in Big Data & AI Engineering.
+
+🔗 **Quick Links:**
+- 🧠 AI/ML Focus: LLM, RAG, Computer Vision, Fine-tuning
+- 📧 Email: souissiyoussef9@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/souissi-youssef](https://linkedin.com/in/souissi-youssef)
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youssef.souissi.33483) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souissi-youssef) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=YoussefSouissi&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSouissi&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Current Focus
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YoussefSouissi&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+I'm working on intelligent AI systems that solve real-world problems:
+
+**Featured Projects:**
+- 🤖 **[Cortexa](https://github.com/YoussefSouissi/cortexa)** — Agentic RAG system for secure document Q&A with LangGraph
+- 🎨 **[Portrait Studio](https://github.com/YoussefSouissi/Portrait-Studio)** — Fine-tuning Stable Diffusion XL with LoRA for photorealistic generation
+- 📊 **[E-Commerce Delivery Intelligence](https://github.com/YoussefSouissi/Surveillance-Proactive-des-Livraisons)** — Real-time delivery risk prediction (87% AUC) with distributed Big Data architecture
+- 👁️ **[Event Decoration Style Recognition](link)** — Computer Vision system classifying 7 decoration styles (CNN + Transfer Learning)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI/ML & Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LLM & RAG](https://img.shields.io/badge/LLM_RAG-00A4EF?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🔧 Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### 📊 Big Data & Databases
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 💻 Frontend & Full-Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🐳 DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefSouissi&theme=tokyonight&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSouissi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoussefSouissi&theme=tokyonight&hide_border=true)](https://github.com/YoussefSouissi)
+
+---
+
+## 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YoussefSouissi&theme=cobalt&no-frame=false&no-bg=false&margin-w=4&row=1&column=6)
+
+---
+
+## 💡 Areas of Expertise
+
+| Domain | Skills |
+|--------|--------|
+| **Large Language Models** | Prompt Engineering, Fine-tuning, RAG, LangGraph, DeepSeek |
+| **Machine Learning** | Transfer Learning, CNN, XGBoost, Scikit-learn, MLflow |
+| **Big Data** | Apache Spark, Kafka, Hadoop, Distributed Systems, Data Pipelines |
+| **Computer Vision** | Image Classification, Transfer Learning, MobileNetV2, KMeans |
+| **Backend** | FastAPI, Node.js, Spring Boot, REST APIs, WebSocket |
+| **Full-Stack** | React, TypeScript, Angular, Flutter, databases |
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Agent Architectures (Multi-agent systems)
+- Fine-tuning large models at scale
+- Production ML systems & MLOps
+- Vector databases & semantic search optimization
+
+---
+
 
